@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">kataDagger2Lv1</string>
+    <string name="lblname">Dead Pool</string>
+    <string name="lbl_loading">Loading ..</string>
 </resources>
